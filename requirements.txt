@@ -1,0 +1,3 @@
+To install all necessary libraries, run: 
+
+pip install pandas gnews requests urllib3 python-dateutil alpaca-py scipy numpy torch transformers openpyxl
